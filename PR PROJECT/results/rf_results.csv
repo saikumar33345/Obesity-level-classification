@@ -1,0 +1,2 @@
+model,accuracy,macro_f1
+Random Forest,0.9787234042553191,0.9783355318458283
